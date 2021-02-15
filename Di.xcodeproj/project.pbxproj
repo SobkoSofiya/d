@@ -15,6 +15,12 @@
 		C372B31525DA75AB005A4226 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C372B31325DA75AB005A4226 /* LaunchScreen.storyboard */; };
 		C372B32025DA75AB005A4226 /* DiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B31F25DA75AB005A4226 /* DiTests.swift */; };
 		C372B32B25DA75AB005A4226 /* DiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B32A25DA75AB005A4226 /* DiUITests.swift */; };
+		C372B33C25DA78D6005A4226 /* ignin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B33B25DA78D6005A4226 /* ignin.swift */; };
+		C372B34125DA7BF7005A4226 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B34025DA7BF7005A4226 /* SignUp.swift */; };
+		C372B34625DA7CE1005A4226 /* Start.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B34525DA7CE1005A4226 /* Start.swift */; };
+		C372B34B25DA7E65005A4226 /* what.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B34A25DA7E65005A4226 /* what.swift */; };
+		C372B35025DA82B0005A4226 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B34F25DA82B0005A4226 /* SwiftUIView.swift */; };
+		C372B35825DA8C9E005A4226 /* Ec.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372B35725DA8C9E005A4226 /* Ec.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +55,12 @@
 		C372B32625DA75AB005A4226 /* DiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C372B32A25DA75AB005A4226 /* DiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiUITests.swift; sourceTree = "<group>"; };
 		C372B32C25DA75AB005A4226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C372B33B25DA78D6005A4226 /* ignin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ignin.swift; sourceTree = "<group>"; };
+		C372B34025DA7BF7005A4226 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
+		C372B34525DA7CE1005A4226 /* Start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Start.swift; sourceTree = "<group>"; };
+		C372B34A25DA7E65005A4226 /* what.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = what.swift; sourceTree = "<group>"; };
+		C372B34F25DA82B0005A4226 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		C372B35725DA8C9E005A4226 /* Ec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ec.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +113,13 @@
 			children = (
 				C372B30825DA75A9005A4226 /* AppDelegate.swift */,
 				C372B30A25DA75A9005A4226 /* SceneDelegate.swift */,
+				C372B34F25DA82B0005A4226 /* SwiftUIView.swift */,
 				C372B30C25DA75A9005A4226 /* ContentView.swift */,
+				C372B33B25DA78D6005A4226 /* ignin.swift */,
+				C372B34025DA7BF7005A4226 /* SignUp.swift */,
+				C372B34525DA7CE1005A4226 /* Start.swift */,
+				C372B35725DA8C9E005A4226 /* Ec.swift */,
+				C372B34A25DA7E65005A4226 /* what.swift */,
 				C372B30E25DA75AB005A4226 /* Assets.xcassets */,
 				C372B31325DA75AB005A4226 /* LaunchScreen.storyboard */,
 				C372B31625DA75AB005A4226 /* Info.plist */,
@@ -268,7 +286,13 @@
 			files = (
 				C372B30925DA75A9005A4226 /* AppDelegate.swift in Sources */,
 				C372B30B25DA75A9005A4226 /* SceneDelegate.swift in Sources */,
+				C372B35825DA8C9E005A4226 /* Ec.swift in Sources */,
+				C372B35025DA82B0005A4226 /* SwiftUIView.swift in Sources */,
+				C372B34B25DA7E65005A4226 /* what.swift in Sources */,
 				C372B30D25DA75A9005A4226 /* ContentView.swift in Sources */,
+				C372B33C25DA78D6005A4226 /* ignin.swift in Sources */,
+				C372B34625DA7CE1005A4226 /* Start.swift in Sources */,
+				C372B34125DA7BF7005A4226 /* SignUp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
